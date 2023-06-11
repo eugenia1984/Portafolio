@@ -2,15 +2,15 @@ ENGLISH
 
 # Portfolio 
 
-This is my personal **portfolio**. 
+Welcome to my personal **portfolio**. 
 
-In 2020 I began to study programming on my own, from platforms such as Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning and many hours practicing. 
+- This 2023 I will graduate from the Technicatura at UTN. Since January I'm working at Softtek, as a Front End Developer with React, TypeScript and MUI.
 
-In 2021 I studied **Full Stack** with **Codo a Codo** and **Egg**, learning **Java** ans **SpringBoot**. 
+-In 2022 I started at **UTN Facultad Regional San Rafael** the **Tecnicatura Universitaria en Progrmación**.  I studied **Full Stack** at **Academia Numen** (learning **React** and **Node**), **React** at **Codo a Codo** and **React** in a **Universidad Siglo XXI, Alkemy and Sofftek training.
 
-I plan to continue learning and keep up to date. 
+- In 2021 I studied **Full Stack** at **Codo a Codo** and **Egg** learning **Java** and **SpringBoot**.
 
-In 2022 I´ll be studying **Full Stack** at **Numen Academy**, learning **React** and **Node** and  **University Tecnician in Programming** at **UTN Facultad Regional San Rafael**.
+- In 2020 I started studying programming on my own, from platforms like Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning and many hours practicing.
 
 ## Content 🚀
 
@@ -31,9 +31,10 @@ If you want to see how this project was, you can do it from ->   [https://eugeni
 * Thanks a lot 🤓.
 
 ---
+
 ## Notes
-I appreciate your interest in this Project 
-⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
 
 ---
 
@@ -41,17 +42,15 @@ ESPAÑOL
 
 # Portafolio
 
-Este es mi **portafolio** personal. 
+Bienvenidos a mi **portafolio** personal. 
 
-En 2020 comencé a estudiar programación por mi cuenta, desde plataformas como Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning y muchas horas practicando. 
+- Este 2023 me recibiré de la Tecnicatura en la UTN. Desde Enero estoy trabajando en Softtek, como Front End Developer con React, TypeScript y MUI.
 
-En 2021 estudie **Full Stack** en **Codo a Codo** y **Egg** aprendiendo **Java** y **SpringBoot**.
+En 2022 comencé en **UTN Facultad Regional San Rafael**  la **Tecnicatura Universitaria en Progrmación**.  Estudié **Full Stack** en **Academia Numen** (aprendiendo **React** y **Node**), **React** en **Codo a Codo** y **React** en una capacitación de **Universidad Siglo XXI, Alkemy y Sofftek.
 
-Planeo seguir aprendiendo y mantenerme actualizado.
+- En 2021 estudie **Full Stack** en **Codo a Codo** y **Egg** aprendiendo **Java** y **SpringBoot**.
 
-Este 2022 estaré estudiando **Full Stack** en **Academia Numen**, aprendiendo **React** y **Node**. Y también comienzo a cursar en **UTN Facultad Regional San Rafael**  la **TEcnicatura Universitaria en Progrmación**.
-
-
+- En 2020 comencé a estudiar programación por mi cuenta, desde plataformas como Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning y muchas horas practicando. 
 ## Contenido 🚀
 
 Es mi portafolio, en el cual tienen las secciones: sobre mi, skills, proyectos, certificados, contacto.

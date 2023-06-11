@@ -47,11 +47,11 @@ a:hover {
   opacity: 0.75;
 }
 h1 {
-  margin: 0;
+  margin: 12px;
   font-size: 2rem;
 }
 h2 {
-  margin: 0;
+  margin: 6px;
   font-size: 1.5rem;
 }
 h3 {
@@ -76,6 +76,7 @@ img {
 }
 p {
   line-height: 1.6;
+  text-align: left;
 }
 
 /**Para que al hacer scroll a las secciones el header no me tape el contenido***/
