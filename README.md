@@ -12,13 +12,16 @@ Welcome to my personal **portfolio**.
 
 - In 2020 I started studying programming on my own, from platforms like Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning and many hours practicing.
 
+
 ## Content 🚀
 
 It is my portfolio, in which they have the sections: about me, skills, projects, certificates, contact.
 
+
 ## Stack of technologies?  🛠️
 
 **HTML5** , **CSS3** and **JavaScript**
+
 
 ## Demo 📦
 
@@ -50,7 +53,9 @@ En 2022 comencé en **UTN Facultad Regional San Rafael**  la **Tecnicatura Unive
 
 - En 2021 estudie **Full Stack** en **Codo a Codo** y **Egg** aprendiendo **Java** y **SpringBoot**.
 
-- En 2020 comencé a estudiar programación por mi cuenta, desde plataformas como Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning y muchas horas practicando. 
+- En 2020 comencé a estudiar programación por mi cuenta, desde plataformas como Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning y muchas horas practicando.
+
+  
 ## Contenido 🚀
 
 Es mi portafolio, en el cual tienen las secciones: sobre mi, skills, proyectos, certificados, contacto.
@@ -62,6 +67,7 @@ Es mi portafolio, en el cual tienen las secciones: sobre mi, skills, proyectos, 
 
 
 ## Demo 📦
+
 Si quieres ver cómo fue este proyecto, puedes hacerlo desde -> [https://eugenia1984.github.io/Portafolio](https://eugenia1984.github.io/Portafolio)
 
 
