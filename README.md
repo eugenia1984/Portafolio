@@ -4,7 +4,7 @@ ENGLISH
 
 Welcome to my personal **portfolio**. 
 
-- This 2023 I will graduate from the Technicatura at UTN. Since January I'm working at Softtek, as a Front End Developer with React, TypeScript and MUI.
+- This 2023 I'll be graduated from the Technicatura at UTN. Since January I'm working at Softtek, as a Front End Developer with React, TypeScript and MUI.
 
 -In 2022 I started at **UTN Facultad Regional San Rafael** the **Tecnicatura Universitaria en Progrmación**.  I studied **Full Stack** at **Academia Numen** (learning **React** and **Node**), **React** at **Codo a Codo** and **React** in a **Universidad Siglo XXI, Alkemy and Sofftek training.
 
@@ -30,7 +30,9 @@ If you want to see how this project was, you can do it from ->   [https://eugeni
 ## Please: 🎁
 
 * Share this proyect with others 📢
+
 * Invite a beer 🍺 or a coffee ☕  to someone of the team. 
+
 * Thanks a lot 🤓.
 
 ---
@@ -47,9 +49,9 @@ ESPAÑOL
 
 Bienvenidos a mi **portafolio** personal. 
 
-- Este 2023 me recibiré de la Tecnicatura en la UTN. Desde Enero estoy trabajando en Softtek, como Front End Developer con React, TypeScript y MUI.
+- Este 2023 me recibiré de la Tecnicatura Universitaria en Programación en la UTN. Desde Enero estoy trabajando en Softtek, como Front End Developer con React, TypeScript y MUI.
 
-En 2022 comencé en **UTN Facultad Regional San Rafael**  la **Tecnicatura Universitaria en Progrmación**.  Estudié **Full Stack** en **Academia Numen** (aprendiendo **React** y **Node**), **React** en **Codo a Codo** y **React** en una capacitación de **Universidad Siglo XXI, Alkemy y Sofftek.
+En 2022 estudié **Full Stack** en **Academia Numen** (aprendiendo **React** y **Node**), **React** en **Codo a Codo** y **React** en una capacitación de **Universidad Siglo XXI**, **Alkemy** y **Sofftek**.
 
 - En 2021 estudie **Full Stack** en **Codo a Codo** y **Egg** aprendiendo **Java** y **SpringBoot**.
 
@@ -74,7 +76,9 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde -> [https://eugenia
 ## Por favor: 🎁
 
 * Comparte este proyecto con otros 📢
+
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+
 * Muchas gracias 🤓.
 
 
