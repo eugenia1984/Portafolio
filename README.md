@@ -6,11 +6,11 @@ Welcome to my personal **portfolio**.
 
 - This 2023 I'll be graduated from the Technicatura at UTN. Since January I'm working at Softtek, as a Front End Developer with React, TypeScript and MUI.
 
--In 2022 I started at **UTN Facultad Regional San Rafael** the **Tecnicatura Universitaria en Progrmación**.  I studied **Full Stack** at **Academia Numen** (learning **React** and **Node**), **React** at **Codo a Codo** and **React** in a **Universidad Siglo XXI, Alkemy and Sofftek training.
+- At 2022 I started at **UTN Facultad Regional San Rafael** the **Tecnicatura Universitaria en Progrmación**.  I studied **Full Stack** at **Academia Numen** (learning **React** and **Node**), **React** at **Codo a Codo** and **React** in a **Universidad Siglo XXI, Alkemy and Sofftek training.
 
-- In 2021 I studied **Full Stack** at **Codo a Codo** and **Egg** learning **Java** and **SpringBoot**.
+- At 2021 I studied **Full Stack** at **Codo a Codo** and **Egg** learning **Java** and **SpringBoot**.
 
-- In 2020 I started studying programming on my own, from platforms like Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning and many hours practicing.
+- At 2020 I started studying programming on my own, from platforms like Udemy, FreeCodeCamp, w3schools, DevCode, SoloLearn, LinkedIn Learning and many hours practicing.
 
 
 ## Content 🚀
@@ -51,7 +51,7 @@ Bienvenidos a mi **portafolio** personal.
 
 - Este 2023 me recibiré de la Tecnicatura Universitaria en Programación en la UTN. Desde Enero estoy trabajando en Softtek, como Front End Developer con React, TypeScript y MUI.
 
-En 2022 estudié **Full Stack** en **Academia Numen** (aprendiendo **React** y **Node**), **React** en **Codo a Codo** y **React** en una capacitación de **Universidad Siglo XXI**, **Alkemy** y **Sofftek**.
+- En 2022 estudié **Full Stack** en **Academia Numen** (aprendiendo **React** y **Node**), **React** en **Codo a Codo** y **React** en una capacitación de **Universidad Siglo XXI**, **Alkemy** y **Sofftek**.
 
 - En 2021 estudie **Full Stack** en **Codo a Codo** y **Egg** aprendiendo **Java** y **SpringBoot**.
 
